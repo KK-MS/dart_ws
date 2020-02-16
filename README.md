@@ -3,8 +3,9 @@ dart examples
 
 ## Setup
 If flutter is already working: PATH
-
+```
 set PATH=C:\ins\Android\flutter\bin\cache\dart-sdk\bin;%PATH%
+```
 
 ## Online editor:
 * https://dartpad.dartlang.org/
@@ -12,4 +13,7 @@ set PATH=C:\ins\Android\flutter\bin\cache\dart-sdk\bin;%PATH%
 ## Tutorial
 * https://dart.dev/samples
 * https://dart.dev/tutorials
+
+## Markdown live preview
+* https://markdownlivepreview.com/
 
