@@ -4,7 +4,7 @@ dart examples
 ## Setup
 If flutter is already working:
 PATH
-```set PATH=C:\ins\Android\flutter\bin\cache\dart-sdk\bin;%PATH%
+set PATH=C:\ins\Android\flutter\bin\cache\dart-sdk\bin;%PATH%
 
 ## Online editor:
 * https://dartpad.dartlang.org/
